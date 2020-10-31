@@ -1,6 +1,8 @@
 <h1 align="center">GoFinances</h1>
 <p align="center">Desafio proposto no GoStack12, aplicação desenvolvida com ReactJS, NodeJS, TypeScript e Styled-components. Onde a aplicação controlava e gerencia a entrada e saída de novas transações.</p>
 
+
+
 ## Listando entrada e saída de valores
 <h1 align="center">
   <img alt="GoFinances" title="#GoFinances" src="./web/src/screen/principal.png" />
@@ -13,7 +15,7 @@
 
 ## Cadastrando nova transação
 <h1 align="center">
-  <img alt="GoFinances" title="#GoFinances src="./web/src/screen/import.png" />
+  <img alt="GoFinances" title="#GoFinances src="./web/src/screen/register.png" />
 </h1>
 
 ### 🛠 Tecnologias
