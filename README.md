@@ -60,6 +60,9 @@ $ yarn dev:server
 # Após isso navegue a ter a pasta web
 $ cd web
 
+Instale as dependências
+$ yarn
+
 # Execute a aplicação
 $ yarn start
 
