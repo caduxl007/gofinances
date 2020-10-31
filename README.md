@@ -10,12 +10,12 @@
 
 ## Importando arquivo .CSV
 <h1 align="center">
-  <img alt="GoFinances" title="#GoFinances src="./web/src/screen/import.png" />
+  <img alt="Import" title="#GoFinances" src="./web/src/screen/import.png" />
 </h1>
 
 ## Cadastrando nova transação
 <h1 align="center">
-  <img alt="GoFinances" title="#GoFinances src="./web/src/screen/register.png" />
+  <img alt="GoFinances" title="#GoFinances" src="./web/src/screen/register.png" />
 </h1>
 
 ### 🛠 Tecnologias
