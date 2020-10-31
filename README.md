@@ -27,6 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Docker](https://www.docker.com/)
 - [PostgreSql](https://www.postgresql.org/)
+- [Styled-components](https://styled-components.com/)
 
 <h1>📱 Como usar?</h1>
 
